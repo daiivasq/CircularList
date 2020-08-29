@@ -1,0 +1,13 @@
+C:\Users\rafae\source\repos\ListLinkedDoble\ListLinkedDoble\bin\Debug\netcoreapp3.1\ListLinkedDoble.exe
+C:\Users\rafae\source\repos\ListLinkedDoble\ListLinkedDoble\bin\Debug\netcoreapp3.1\ListLinkedDoble.deps.json
+C:\Users\rafae\source\repos\ListLinkedDoble\ListLinkedDoble\bin\Debug\netcoreapp3.1\ListLinkedDoble.runtimeconfig.json
+C:\Users\rafae\source\repos\ListLinkedDoble\ListLinkedDoble\bin\Debug\netcoreapp3.1\ListLinkedDoble.runtimeconfig.dev.json
+C:\Users\rafae\source\repos\ListLinkedDoble\ListLinkedDoble\bin\Debug\netcoreapp3.1\ListLinkedDoble.dll
+C:\Users\rafae\source\repos\ListLinkedDoble\ListLinkedDoble\bin\Debug\netcoreapp3.1\ListLinkedDoble.pdb
+C:\Users\rafae\source\repos\ListLinkedDoble\ListLinkedDoble\obj\Debug\netcoreapp3.1\ListLinkedDoble.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\ListLinkedDoble\ListLinkedDoble\obj\Debug\netcoreapp3.1\ListLinkedDoble.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\ListLinkedDoble\ListLinkedDoble\obj\Debug\netcoreapp3.1\ListLinkedDoble.AssemblyInfo.cs
+C:\Users\rafae\source\repos\ListLinkedDoble\ListLinkedDoble\obj\Debug\netcoreapp3.1\ListLinkedDoble.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\ListLinkedDoble\ListLinkedDoble\obj\Debug\netcoreapp3.1\ListLinkedDoble.dll
+C:\Users\rafae\source\repos\ListLinkedDoble\ListLinkedDoble\obj\Debug\netcoreapp3.1\ListLinkedDoble.pdb
+C:\Users\rafae\source\repos\ListLinkedDoble\ListLinkedDoble\obj\Debug\netcoreapp3.1\ListLinkedDoble.genruntimeconfig.cache
